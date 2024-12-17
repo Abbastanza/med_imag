@@ -1,1 +1,1 @@
-# med_imag
+# Texture-Based Tumor Classification from Open MRI/CT Datasets
